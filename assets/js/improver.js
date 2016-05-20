@@ -1,5 +1,5 @@
-if(modeEnabled('improve')) {
+if(modeEnabled('improvement')) {
     $(document).ready(function () {
-        $('div#improveContainer').removeClass('modeContainer')
-});
+        $('div#improvementContainer').removeClass('modeContainer')
+    });
 };
